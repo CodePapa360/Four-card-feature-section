@@ -21,10 +21,10 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview]()
+- [👉 Click here to see Live preview](https://codepapa360.github.io/Four-card-feature-section/)
 <br>
 
-- [👉 Frontendmentor solution page]()
+- [👉 Frontendmentor solution page](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-LnjA3GOVJ8)
 
 ## My process
 
