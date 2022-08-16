@@ -85,8 +85,8 @@ h2 {
     width: -moz-fit-content;
     width: fit-content;
     text-align: center;
-    border-left: hsl(212, 86%, 64%);
-    border-right: hsl(212, 86%, 64%);
+    border-left: 2px solid hsl(212, 86%, 64%);
+    border-right: 2px solid hsl(212, 86%, 64%);
     border-radius: 10px;
 }
 
